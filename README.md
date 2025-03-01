@@ -119,11 +119,12 @@ Enhance Relevance: Precise instructions guarantee that the output matches the us
 Increase Efficiency: By providing the model with appropriate context, users can achieve superior results more quickly, reducing the necessity for repeated attempts.
 Mitigate Bias: Carefully crafted prompts can help lessen unintended biases in the responses.
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague Prompt:
 Help me plan a trip.
 
 Improved Prompt:
-Create a detailed 7-day itinerary for a first-time visitor to Zanzibar that includes top cultural attractions, local dining recommendations, and budget-friendly activities."
+Create a detailed 7 day itinerary for a first time visitor to Zanzibar that includes top cultural attractions, local dining recommendations, and budget friendly activities.
 
 Explanation:
 The improved prompt is more effective because it specifies the destination (Zanzibar), duration (7 days), and target audience (first-time visitor). It also clearly outlines the key elements cultural attractions, dining recommendations, and budget-friendly activities ensuring that the response will be detailed, relevant, and tailored to the user's needs.
